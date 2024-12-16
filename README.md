@@ -36,14 +36,21 @@ The code is hosted on a GitHub repository, ensuring version control and easy acc
 ### Step 4: Deploying the App on Streamlit Cloud
 
 Log in to Streamlit Cloud.
+
 Connect GitHub Repository:
 * Link the repository containing app.py and requirements.txt.
+  
 Configure Deployment Settings:
+
 * Specify the file (app.py) as the main script.
+  
 Launch the App:
+
 * Streamlit Cloud provisions resources, installs dependencies, and deploys the app.
+  
 Access the App:
-A unique URL is generated, making the app publicly accessible.
+
+* A unique URL is generated, making the app publicly accessible.
 
 ## 3. Importance of Deployment
    
