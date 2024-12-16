@@ -1,12 +1,12 @@
-Report on Deployment of the Crop Yield Prediction App on Streamlit
+# **Report on Deployment of the Crop Yield Prediction App on Streamlit**
 
-1. Introduction
+## 1. Introduction
    
 The Crop Yield Prediction App is a machine learning-based application designed to assist farmers, agronomists, and agricultural planners in forecasting crop yield based on critical factors such as rainfall, fertilizer usage, irrigation, temperature, and days to harvest. This app leverages the power of predictive analytics to optimize agricultural productivity and decision-making.
 
 Deploying this app on Streamlit offers an accessible and interactive interface for end-users, allowing them to easily input data and receive real-time yield predictions. This report highlights the steps involved in deploying the app on Streamlit and discusses its significance.
 
-2. Deployment Process
+## 2. Deployment Process
    
 Step 1: Preparing the Application
 
@@ -61,9 +61,11 @@ The app offers real-time predictions by processing user inputs and delivering im
 Streamlit's interactive widgets, such as sliders and dropdowns, provide a seamless user experience. Even non-technical users can interact with the app effortlessly.
 
 3.4 Cost-Effectiveness
+
 Streamlit Cloud provides free deployment options, reducing operational costs. This makes it an ideal platform for prototyping and sharing machine learning applications.
 
 3.5 Scalability
+
 As the app gains more users, Streamlit Cloud can scale the deployment to handle increased traffic without significant modifications to the codebase.
 
 4. Applications in Agriculture
