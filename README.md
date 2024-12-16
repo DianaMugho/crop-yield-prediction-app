@@ -14,6 +14,7 @@ Step 1: Preparing the Application
 User interface components for input fields (rainfall, fertilizer, etc.).
 * The pre-trained XGBoost model for predicting crop yield.
 * A streamlined structure for user interaction and result display.
+  
 Step 2: Setting Up the Environment
 
 Install necessary libraries:
@@ -27,7 +28,7 @@ Create a requirements.txt file listing all dependencies:
 * scikit-learn
 * pandas
 * numpy
-* 
+  
 Step 3: Hosting the Code
 
 The code is hosted on a GitHub repository, ensuring version control and easy access for deployment.
